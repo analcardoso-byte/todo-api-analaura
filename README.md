@@ -1,6 +1,6 @@
 # API de Tarefas
 
-**Aluno(a):** Ana Laura Aparecida Miranda Cardoso 
+**Aluno(a):** Ana Laura Aparecida Miranda Cardoso
 
 API de gestão de tarefas feita com Node.js, Express e MySQL, no padrão MVC.
 
@@ -22,13 +22,13 @@ _(Sprint 2: uma linha para cada rota da API)_
 
 ## Diagrama de classes
 
-![Diagrama de classes](diagrama-classes.png)
+![Diagrama de classes](docs/diagrama-classes.png)
 
 ---
 
 # Acompanhamento do projeto
 
-**Quadro usado:** _(preencher: GitHub Projects ou Trello)_
+**Quadro usado:** GitHub Projects
 
 ## Sprint 1 — Tarefas
 
@@ -40,7 +40,7 @@ _(Sprint 2: uma linha para cada rota da API)_
 
 ![Quadro no fim do Sprint 1](docs/sprint1-fim.png)
 
-**Placar do `npm run conferir`:** Sprint 1: _(preencher)_ de 14 · Bônus: _(preencher)_ de 5
+**Placar do `npm run conferir`:** Sprint 1: 14 de 14 · Bônus: 2 de 5
 
 ## Sprint 2 — Categorias e relacionamento
 
