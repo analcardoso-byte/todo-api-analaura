@@ -22,7 +22,7 @@ _(Sprint 2: uma linha para cada rota da API)_
 
 ## Diagrama de classes
 
-![Diagrama de classes](docs_diagrama-classes.png.drawio.png)
+![Diagrama de classes](diagrama-classes.png)
 
 ---
 
